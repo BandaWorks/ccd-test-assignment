@@ -13,5 +13,6 @@
 ### Tasks
 
 - [ ] Implement the main menu according to the design
+- [ ] When menu item clicked, open new screen with the item's heading
 
 &nbsp;
