@@ -4,11 +4,8 @@
 
 #### :wrench: Recommended tools
 
-> If you are not familiar with Typescript, you can use plain Javascript.
-
 - React Native
-- Typescript (recommended)
-- Javascript
+- Typescript is recommended,  but if you are not familiar with it, you can use plain Javascript.
 
 ### Tasks
 
