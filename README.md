@@ -11,5 +11,6 @@
 
 - [ ] Implement the main menu according to the design
 - [ ] When menu item clicked, open new screen with the item's heading
+- [ ] Given some inner screen is open, when "Go back" button is clicked, return back to the main menu
 
 &nbsp;
